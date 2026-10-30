@@ -18,7 +18,7 @@ K20_Portfolio_CNTT20_04/
 ├── css/
 │   └── style.css       # Giao diện, responsive và trạng thái tương tác
 ├── kiem-tra-lab5.txt   # Mẫu ghi kết quả kiểm thử/minh chứng
-├── AI_log.md           # Nhật ký sử dụng AI
+├── AI_LOG.md           # Nhật ký sử dụng AI
 └── README.md           # Hướng dẫn dự án
 ```
 
@@ -55,4 +55,4 @@ Cũng có thể mở trực tiếp `index.html`, nhưng chạy máy chủ local 
 
 - **Hồ sơ cá nhân trực tuyến:** chưa được cung cấp; thêm URL hồ sơ tác giả tại đây.
 - **Minh chứng kiểm thử:** [mẫu ghi kết quả Lab 5](./kiem-tra-lab5.txt). Điền kết quả thực tế, ảnh chụp màn hình hoặc URL minh chứng sau khi chạy các bước kiểm tra ở trên.
-- **Nhật ký AI (nếu sử dụng):** [AI_log.md](./AI_log.md).
+- **Nhật ký AI:** [AI_LOG.md](./AI_LOG.md).
