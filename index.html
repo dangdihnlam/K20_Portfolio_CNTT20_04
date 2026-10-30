@@ -17,7 +17,7 @@
     </header>
     <main>
         <section class="hero" id="gioi-thieu"><span>LAB 5 · HTML5 + CSS3</span>
-            <h1>Xin chào, tôi là Lâm</h1>
+            <h1>Xin chào, tôi là An</h1>
             <p>Sinh viên CNTT đang xây dựng Portfolio có thể dùng bằng chuột và bàn phím.</p>
             <a class="button" href="#lien-he">Liên hệ với tôi</a>
         </section>
@@ -60,25 +60,25 @@
             <p>Form mô phỏng, chưa gửi email hoặc lưu vào cơ sở dữ liệu. Chỉ nhập dữ liệu giả.</p>
             <form action="ket-qua.html" method="get">
                 <div class="form-field">
-                    <label for="___">Họ tên (bắt buộc)</label><!-- 4.1 -->
+                    <label for="fullname">Tên tài khoản</label><!-- 4.1 -->
                     <input id="fullname" name="fullname" type="text" autocomplete="name" required
-                        minlength="___"><!-- 4.4 -->
+                        minlength="2"><!-- 4.4 -->
                 </div>
-                <div class="form-field"><label for="email">Email (bắt buộc)</label>
-                    <input id="email" name="email" type="___" ___ autocomplete="email"
+                <div class="form-field"><label for="email">Email</label>
+                    <input id="email" name="email" type="email"required autocomplete="email"
                         aria-describedby="email-help"><!-- 4.2; 4.3 -->
                     <p class="help" id="email-help">Ví dụ: an@example.com</p>
                 </div>
-                <div class="form-field"><label for="message">Nội dung (bắt buộc)</label>
-                    <textarea id="message" name="message" rows="4" required minlength="___" maxlength="___"
-                        aria-describedby="___"></textarea><!-- 4.5; 4.6; 4.7 -->
-                    <p class="help" id="message-help">Nhập từ 10 đến 500 ký tự.</p>
+                <div class="form-field"><label for="message">Nội dung tin nhắn (tối thiểu 10 ký tự)</label>
+                    <textarea id="message" name="message" rows="4" required minlength="10" maxlength="500"
+                        aria-describedby="message-help"></textarea><!-- 4.5; 4.6; 4.7 -->
+                    <p class="help" id="message-help">Mô tả ngắn gọn nhu cầu hoặc câu hỏi của bạn.</p>
                 </div>
-                <button class="button" type="___">Kiểm tra biểu mẫu</button><!-- 4.8 -->
+                <button class="button" type="submit">Kiểm tra biểu mẫu</button><!-- 4.8 -->
             </form>
         </section>
     </main>
     <footer>FIT – DNU · Bài mẫu Lab 5 · HTML/CSS thuần</footer>
 </body>
 
-</html>
+</html
