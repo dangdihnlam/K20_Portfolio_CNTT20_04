@@ -4,7 +4,8 @@
 Đây là website portfolio cá nhân của Đình Lâm, sinh viên CNTT, giới thiệu kỹ năng, các bài tập/dự án học tập và lộ trình học HTML, CSS. Website được xây dựng bằng HTML và CSS thuần.
 
 ## Demo
-Demo trực tuyến chưa được xuất bản; đường dẫn GitHub Pages dự kiến hiện chưa mở được. Mã nguồn nằm tại [repository K20_Portfolio_CNTT20_04](https://github.com/dangdihnlam/K20_Portfolio_CNTT20_04).
+[Mở website portfolio](https://dangdihnlam.github.io/K20_Portfolio_CNTT20_04/)  
+Mã nguồn nằm tại [repository K20_Portfolio_CNTT20_04](https://github.com/dangdihnlam/K20_Portfolio_CNTT20_04).
 
 ## Tính năng
 Menu Giới thiệu, Kỹ năng, Dự án, Lộ trình và Liên hệ đưa người xem đến các mục tương ứng trên trang. Form liên hệ kiểm tra các trường bắt buộc và định dạng email, sau đó mở trang kết quả mô phỏng.
@@ -16,4 +17,4 @@ Menu Giới thiệu, Kỹ năng, Dự án, Lộ trình và Liên hệ đưa ngư
 4. Trên trang, bấm các mục **Giới thiệu**, **Kỹ năng**, **Dự án**, **Lộ trình** hoặc **Liên hệ** trên menu để xem nội dung.
 
 ## Hạn chế
-Demo GitHub Pages chưa được xuất bản nên hiện chưa có URL demo trực tuyến. Form chỉ mô phỏng việc gửi dữ liệu sang trang kết quả; không gửi email và không lưu dữ liệu.
+Ảnh đại diện chưa hiển thị trên demo vì tệp `assets/avatar.png` không có trong dự án. Form chỉ mô phỏng việc gửi dữ liệu sang trang kết quả; không gửi email và không lưu dữ liệu.

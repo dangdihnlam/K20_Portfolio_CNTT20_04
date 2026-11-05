@@ -32,3 +32,7 @@ Các lỗi có thể liên quan tới đường dẫn tương đối hoặc vi�
 
 - Hướng dẫn thử: chạy máy chủ tĩnh tại thư mục chứa `index.html`, mở trang chủ, xác nhận CSS tải được; gửi form bằng dữ liệu giả để mở `ket-qua.html`; kiểm tra Console/Network nếu vẫn gặp 404.
 - Người dùng đã báo “Đã sửa được lỗi”, nhưng không cung cấp bước tái hiện, URL, ảnh chụp hoặc kết quả kiểm tra cụ thể. Vì vậy, đây là báo cáo của người dùng, không phải kết quả kiểm chứng độc lập; chưa xác nhận riêng việc hiển thị ảnh hay xuất bản trên Pages.
+
+## Nhật ký Lab 8 – 05/11/2026
+
+- 05/11/2026 | Cập nhật CHANGELOG, README và bảng minh chứng | AI hỗ trợ đọc Git log và soạn nội dung; kiểm tra demo công khai: HTTP 200, CSS tải, 5/5 mục menu đúng, khung nhìn 375px không tràn ngang; ảnh `assets/avatar.png` không tải | Chưa thử trên iPhone thật và chưa lưu ảnh chụp.
